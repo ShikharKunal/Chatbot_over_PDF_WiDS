@@ -14,8 +14,8 @@ The project will aim on implementing a basic Question-Answering Chatbot for exte
 
 Feel free to contact me and discuss among yourselves about the project.
 
-[!TIP]
-Leverage ChatGPT, Stackovreflow, Documentations, Youtube and other resources to their fullest.
+> [!TIP]
+> Leverage ChatGPT, Stackovreflow, Documentations, Youtube and other resources to their fullest.
 
 ## Skills and libraries mentess will learn!!
 
