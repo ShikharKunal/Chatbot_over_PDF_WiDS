@@ -1,4 +1,4 @@
-<img src="/misc/banner.png" width="70%" height="70%" class="center"></img> 
+![banner](/misc/banner_1.jpeg)
 
 # CHATBOT Over PDF 
 
