@@ -18,7 +18,7 @@ _Feel free to contact me and discuss among yourselves about the project._
 
 
 > [!TIP]
-> Leverage ChatGPT,Documentations, Youtube and other resources to their fullest. 
+> Leverage ChatGPT, Documentations, Youtube and other resources to their fullest. 
 
 
 ## Skills and Libraries mentess will learn!!
