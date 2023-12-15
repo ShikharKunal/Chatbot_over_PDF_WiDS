@@ -29,6 +29,6 @@ _Feel free to contact me and discuss among yourselves about the project._
 
 ### [WEEK 1](./WEEK%201/)
 
-### [WEEK 2](./WEEK%202/)
+(_All the contents will be posted in this repo only_)
 
 
