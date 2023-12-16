@@ -1,6 +1,9 @@
 # WEEK 1:
 
-## Topics to be covered:
+
+
+Starting with essential Python libraries, including NumPy and Pandas, is crucial. Mastering these before delving into deep learning is vital for foundational skills in data manipulation and numerical operations. Pandas and NumPy play a key role in efficient dataset handling, preprocessing, and seamless integration with deep learning frameworks. Additionally, Matplotlib is a valuable tool for data visualization in this context.
+
 
 ### NUMPY
 
@@ -34,12 +37,16 @@
 
 ### NEURAL NETWORKS (IMPORTANT)
 
+Transitioning to neural networks, grasp foundational concepts with PyTorch. Prioritize understanding neural network architectures, activation functions, and optimization algorithms. Knowledge of NumPy aids seamless integration with these libraries. Mastering essentials like backpropagation and gradient descent is crucial for effective model training and optimization. This foundation facilitates exploration of advanced architectures like CNNs and RNNs(_Which we'll be using in this project_) for tasks such as image recognition and natural language processing.
+
 **RESOURCES**
 
 - [**Coursera course (Neural Networks and Deep Learning)**](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) (Complete this course by the end of the week 1. You do not have to buy the course, you can audit the course for free)
 - [3Blue1Brown 4 video Playlist](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=pGHVPQ58rTgYkYgM) (_Good Video for Visualisation_)
 
 ### PYTORCH
+
+Transitioning to neural networks, grasp foundational concepts with TensorFlow and PyTorch. Prioritize understanding neural network architectures, activation functions, and optimization algorithms. Knowledge of NumPy aids seamless integration with these libraries. Mastering essentials like backpropagation and gradient descent is crucial for effective model training and optimization. This foundation facilitates exploration of advanced architectures like CNNs and RNNs for tasks such as image recognition and natural language processing.Utilize the nn module for streamlined creation of network layers.
 
 Again, you don't have to dive deeper into this module, just falmiliarize yourself with basic syntax.
 
