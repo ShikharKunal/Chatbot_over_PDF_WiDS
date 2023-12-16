@@ -46,7 +46,7 @@ Transitioning to neural networks, grasp foundational concepts with PyTorch. Prio
 
 ### PYTORCH
 
-Transitioning to neural networks, grasp foundational concepts with TensorFlow and PyTorch. Prioritize understanding neural network architectures, activation functions, and optimization algorithms. Knowledge of NumPy aids seamless integration with these libraries. Mastering essentials like backpropagation and gradient descent is crucial for effective model training and optimization. This foundation facilitates exploration of advanced architectures like CNNs and RNNs for tasks such as image recognition and natural language processing.Utilize the nn module for streamlined creation of network layers.
+PyTorch, a dynamic deep learning library, is essential for neural network development. Master tensors, the fundamental data structure, and leverage PyTorch's dynamic computation graph for flexible model design. Utilize the nn module for streamlined creation of network layers.
 
 Again, you don't have to dive deeper into this module, just falmiliarize yourself with basic syntax.
 
