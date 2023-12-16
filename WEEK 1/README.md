@@ -2,7 +2,7 @@
 
 
 
-Starting with essential Python libraries, including NumPy and Pandas, is crucial. Mastering these before delving into deep learning is vital for foundational skills in data manipulation and numerical operations. Pandas and NumPy play a key role in efficient dataset handling, preprocessing, and seamless integration with deep learning frameworks. Additionally, Matplotlib is a valuable tool for data visualization in this context.
+Starting with essential Python libraries, such as NumPy and Pandas, is crucial. Mastering these before delving into deep learning is vital for foundational skills in data manipulation and numerical operations. Pandas and NumPy play a key role in efficient dataset handling, preprocessing, and seamless integration with deep learning frameworks. Additionally, Matplotlib is a valuable tool for data visualization in this context.
 
 
 ### NUMPY
@@ -18,7 +18,7 @@ Starting with essential Python libraries, including NumPy and Pandas, is crucial
  - Basic data operations (like Creating arrays, Indexing, Slicing, Reshaping, Iterating, Joining, Splitting, Searching, Sorting, Filtering)
  - Ufuncs
   
-**_Extpected time to complete_** : 1-2 hours
+**_Expected time to complete_** : 1-2 hours
 
  ### PANDAS
 
@@ -28,7 +28,7 @@ Starting with essential Python libraries, including NumPy and Pandas, is crucial
  - [**Documentation**](https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html)
  - [**W3schools**](https://www.w3schools.com/python/pandas/default.asp) (_Recommended_)
 
- **_Extpected time to complete_** : 1-2 hours
+ **_Expected time to complete_** : 1-2 hours
 
 ### MATPLOTLIB(Optional)
 
@@ -36,21 +36,21 @@ Starting with essential Python libraries, including NumPy and Pandas, is crucial
 
 - Just cover basics from any video or w3schools, Don't spend too much time on this.
 
-**_Extpected time to complete_** : 45-60 mins
+**_Expected time to complete_** : 45-60 mins
 
 >[!NOTE]
 > If you are new to **JUPYTER NOTEBOOK**, Jupyter notebooks allow you to divide your code into multiple cells that you can run individually  one-by-one, allowing you to debug your code much more easily. You can go over the first few sections of [**this introductory document**](https://realpython.com/jupyter-notebook-introduction/) or [**this video**](https://www.youtube.com/watch?v=HW29067qVWk) (only until Notebook creation and code execution). For this course, you will be using [**Google Colab**](https://colab.google/) to run your notebooks on the cloud. Ensure that you have a Gmail account to use it.
 
 ### NEURAL NETWORKS (IMPORTANT)
 
-Transitioning to neural networks, grasp foundational concepts with PyTorch. Prioritize understanding neural network architectures, activation functions, and optimization algorithms. Knowledge of NumPy aids seamless integration with these libraries. Mastering essentials like backpropagation and gradient descent is crucial for effective model training and optimization. This foundation facilitates exploration of advanced architectures like CNNs and RNNs(_Which we'll be using in this project_) for tasks such as image recognition and natural language processing.
+Transitioning to neural networks, prioritize understanding neural network architectures, activation functions, and optimization algorithms. Knowledge of NumPy aids seamless integration with these libraries. Mastering essentials like backpropagation and gradient descent is crucial for effective model training and optimization. This foundation facilitates exploration of advanced architectures like CNNs and RNNs(_Which we'll be using in this project_) for tasks such as image recognition and natural language processing.
 
 **RESOURCES**
 
 - [**Coursera course (Neural Networks and Deep Learning)**](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) (Complete this course by the end of the week 1. You do not have to buy the course, you can audit the course for free)
 - [3Blue1Brown 4 video Playlist](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=pGHVPQ58rTgYkYgM) (_Good Video for Visualisation_)
 
-**_Extpected time to complete_** : 3-4 days
+**_Expected time to complete_** : 3-4 days
 
 ### PYTORCH
 
@@ -60,7 +60,7 @@ Again, you don't have to dive deeper into this module, just falmiliarize yoursel
 
 Feel free to use tensorflow or keras if you are already comfortable with that.
 
-**_Extpected time to complete_** : 1 hour
+**_Expected time to complete_** : 1 hour
 
 **RESOURCES**
 

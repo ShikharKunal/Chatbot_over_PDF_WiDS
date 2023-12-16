@@ -10,11 +10,11 @@ The project will aim on implementing a basic Question-Answering Chatbot for exte
 - The project will tentatively be 5 weeks long. 
 - Python is the only prerequisite.
 - Each week mentees will be given resources to study and a small assignment to practice.
-- 7-10 hours of time commitment is expected from mentees._(However, this can vary from week to week)._
+- 7-10 hours of weekly time commitment is expected from mentees._(However, this can vary from week to week)._
 - Finishing assignments before deadline is mandatory for certification.
 
 
-_Feel free to contact me and discuss among yourselves about the project._
+_Feel free to contact me or discuss among yourselves about the project._
 
 
 > [!TIP]
