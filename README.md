@@ -4,7 +4,7 @@
 
 ## About the project
 
-The project will aim on implementing a basic Question-Answering Chatbot for external PDFs using Retrieval Augmented Generation on a pre-trained Language Model. Throughouth this project, mentees will dive into Python libraries such as Numpy, Pandas, and PyTorch, while exploring deep learning concepts such as Neural Networks, RNNs, and State-of-the-Art Transformers. 
+The project will aim on implementing a basic Question-Answering Chatbot for external PDFs using Retrieval Augmented Generation on a pre-trained Language Model. Throughout this project, mentees will dive into Python libraries such as Numpy, Pandas, and PyTorch, while exploring deep learning concepts such as Neural Networks, RNNs, and State-of-the-Art Transformers. 
 
 
 - The project will tentatively be 5 weeks long. 
