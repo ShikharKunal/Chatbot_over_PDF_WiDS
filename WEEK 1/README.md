@@ -17,6 +17,8 @@ Starting with essential Python libraries, including NumPy and Pandas, is crucial
 
  - Basic data operations (like Creating arrays, Indexing, Slicing, Reshaping, Iterating, Joining, Splitting, Searching, Sorting, Filtering)
  - Ufuncs
+  
+**_Extpected time to complete_** : 1-2 hours
 
  ### PANDAS
 
@@ -26,11 +28,15 @@ Starting with essential Python libraries, including NumPy and Pandas, is crucial
  - [**Documentation**](https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html)
  - [**W3schools**](https://www.w3schools.com/python/pandas/default.asp) (_Recommended_)
 
+ **_Extpected time to complete_** : 1-2 hours
+
 ### MATPLOTLIB(Optional)
 
 **RESOURCES**
 
 - Just cover basics from any video or w3schools, Don't spend too much time on this.
+
+**_Extpected time to complete_** : 45-60 mins
 
 >[!NOTE]
 > If you are new to **JUPYTER NOTEBOOK**, Jupyter notebooks allow you to divide your code into multiple cells that you can run individually  one-by-one, allowing you to debug your code much more easily. You can go over the first few sections of [**this introductory document**](https://realpython.com/jupyter-notebook-introduction/) or [**this video**](https://www.youtube.com/watch?v=HW29067qVWk) (only until Notebook creation and code execution). For this course, you will be using [**Google Colab**](https://colab.google/) to run your notebooks on the cloud. Ensure that you have a Gmail account to use it.
@@ -44,6 +50,8 @@ Transitioning to neural networks, grasp foundational concepts with PyTorch. Prio
 - [**Coursera course (Neural Networks and Deep Learning)**](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) (Complete this course by the end of the week 1. You do not have to buy the course, you can audit the course for free)
 - [3Blue1Brown 4 video Playlist](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=pGHVPQ58rTgYkYgM) (_Good Video for Visualisation_)
 
+**_Extpected time to complete_** : 3-4 days
+
 ### PYTORCH
 
 PyTorch, a dynamic deep learning library, is essential for neural network development. Master tensors, the fundamental data structure, and leverage PyTorch's dynamic computation graph for flexible model design. Utilize the nn module for streamlined creation of network layers.
@@ -51,6 +59,8 @@ PyTorch, a dynamic deep learning library, is essential for neural network develo
 Again, you don't have to dive deeper into this module, just falmiliarize yourself with basic syntax.
 
 Feel free to use tensorflow or keras if you are already comfortable with that.
+
+**_Extpected time to complete_** : 1 hour
 
 **RESOURCES**
 
