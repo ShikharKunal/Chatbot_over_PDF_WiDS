@@ -4,7 +4,7 @@
 Implement a digit recognizer model using PyTorch to classify handwritten digits from the MNIST dataset.
 
 ## Description
-The MNIST dataset is a widely used collection of 28x28 pixel grayscale images of handwritten digits (0 t0 9). Your task is to build a digit recognizer model using the PyTorch library that can accurately classify these digits.
+The MNIST dataset is a widely used collection of 28x28 pixel grayscale images of handwritten digits (0 to 9). Your task is to build a digit recognizer model using the PyTorch library that can accurately classify these digits.
 
 ## Requirements
 1. **Data Loading:** Load the MNIST dataset using PyTorch's data loading utilities.
