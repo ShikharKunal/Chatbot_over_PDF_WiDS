@@ -33,3 +33,7 @@ Optimizers are pivotal for training deep learning models. They adjust model para
 - [**CS231n Material on Optimization**](https://cs231n.github.io/neural-networks-3/#update)
 
 These resources will prepare you for the exciting world of sequence processing with RNNs. Stay curious and enjoy your learning journey!
+
+Week 3 assignment will be updated soon!
+
+
