@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-Implement a Sentiment Analysis Model utilizing LSTM networks on the provided dataset. The dataset, named [`reviews.csv`](WEEK 3/reviews.csv), consists of textual reviews categorized as either positive or negative. Your goal is to perform preprocessing on the text data and create and train an LSTM-based model for sentiment analysis using PyTorch.
+Implement a Sentiment Analysis Model utilizing LSTM networks on the provided dataset. The dataset, named [`reviews.csv`](reviews.csv), consists of textual reviews categorized as either positive or negative. Your goal is to perform preprocessing on the text data and create and train an LSTM-based model for sentiment analysis using PyTorch.
 
 ## Dataset
 
