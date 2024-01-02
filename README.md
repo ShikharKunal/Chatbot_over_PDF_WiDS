@@ -28,6 +28,8 @@ _Feel free to contact me or discuss among yourselves about the project._
 ## RESOURCES
 
 ### [WEEK 1](./WEEK%201/)
+### [WEEK 2](./WEEK%202/)
+### [WEEK 3](./WEEK%203/)
 
 (_All the contents will be posted in this repo only_)
 
