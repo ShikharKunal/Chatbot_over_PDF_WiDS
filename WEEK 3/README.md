@@ -34,6 +34,6 @@ Optimizers are pivotal for training deep learning models. They adjust model para
 
 These resources will prepare you for the exciting world of sequence processing with RNNs. Stay curious and enjoy your learning journey!
 
-Week 3 assignment will be updated soon!
+Week 3 assignment is uploaded!
 
 
